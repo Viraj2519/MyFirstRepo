@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "hello world!\n";
+    std::cout << "Hello World!\n";
     
     // for formulating pull request
 }
